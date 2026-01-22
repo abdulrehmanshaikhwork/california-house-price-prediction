@@ -52,5 +52,5 @@ Target:
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/abdulrehmanshaikhwork/california-house-price-prediction
+cd california-house-price-prediction
